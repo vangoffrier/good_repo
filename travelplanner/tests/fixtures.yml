@@ -1,0 +1,9 @@
+models:
+  - initial          # This test data provided in Assignment, Part 1
+  - consecutivestops
+  - rand1            # Six random datasets generated via the web service.
+  - rand2
+  - rand3
+  - rand4
+  - rand5
+  - rand6
